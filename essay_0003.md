@@ -1,5 +1,7 @@
 # All university students should be required to take history courses no matter what field they study in
 
+## Response:
+
 Today, students study a wide range of subjects and disciplines in universities. However, history courses are in the decline, and they are routinely merged with other subjects. Traditionalists argue that young people know little of the history of their country or the evolution of human society and the subject should be compulsory for all students, regardless of their majors. I disagree with this view, as the proposition is problematic.
 
 First and foremost, the compulsory study of history will put more pressure on students and eat into their precious time. College students already study theoretical and professional courses, and their schedules are already very tight. For example, a medical student is obligated to complete academic study for credits, and acquire clinical experience. Students with such a heavy workload cannot afford to study irrelevant courses, such as history. This would unnecessarily burden students and jeopardize studies, exacerbating their worries about meeting multiple deadlines and passing final exams.
@@ -10,7 +12,7 @@ Admittedly, studying history is beneficial for young people. Students will gain 
 
 In conclusion, although there are few benefits to studying history, it would be unfair to burden a student both academically and financially. In addition, the benefits a history course would provide can be obtained through other means.
 
-### Keywords:
+## Keywords:
 
 |                                              |                          |
 | -------------------------------------------- | ------------------------ |

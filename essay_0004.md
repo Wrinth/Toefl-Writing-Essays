@@ -1,5 +1,7 @@
 # Younger school children (age five to ten) should be required to study art and music in addition to math, language, science, and history.
 
+## Response:
+
 In today’s society, there is too much emphasis on the core subjects of math, language, and science to the detriment of a wider and more balanced curriculum. Humanities and creative disciplines such as the arts and music, are marginalized and often fall by the wayside. In my opinion, the exploration of creativity through art and music is just as important for child’s development as the study of core subjects. Also, education is more than just mastering essential skills and knowledge.
 
 Primarily, studying art and music encourages creative thinking amongst children. In art and music classes, unconventional thinking is encouraged so that students are able to come up with novel and interesting ideas. This is to say, students can be taught creative skills, and then be given free rein to express themselves. These sorts of activities build up imagination and intellectual curiosity, as well as encourage inventive thinking, which will help children to think outside the box and provide innovative solution to problems as adults.
@@ -10,7 +12,7 @@ Finally, a strong engagement with art and music will help children to develop an
 
 It is a disgrace that arts education doesn’t get the attention it deserves, because its benefits are both numerous and long lasting. It not only develops creativity, but provides people with an outlet to express their feeling, leading to healthier minds. The government would do well to incorporate more creative subjects such as art and music into the children’s education system.
 
-### Keywords:
+## Keywords:
 
 |                                                 |                          |
 | ----------------------------------------------- | ------------------------ |

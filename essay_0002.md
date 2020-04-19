@@ -1,5 +1,7 @@
 # One of the best ways that parents can help their teenage children prepare for adult life is to encourage them to take part-time jobs.
 
+## Response:
+
 Some parents contend that the primary concern of teenage children should be their studies, and that working part-time is not only unnecessary but even distracting. However, I hold the opposite view. I believe that work experience can be as beneficial for teenagers as campus life, and that early exposure to the working world will prepare them well for adulthood.
 
 First of all, working part time raises a young person’s sense of frugality, an attribute that will serve them well when they begin managing their own finance. It’s true that working teenage would encounter many challenges and difficult situations. For example, one might be shouted at by a boss who may be reacting to nothing more than a minor accounting mistake; or a marketing intern may experience months of low pay until they are able to earn their own commissions; a dish washer might be required to compensate the restaurant for any plate he or she accidentally breaks. Such students might have been just as much the kid who frequents social media on all the latest gadgets, wears designer brand shoes, carries luxury bags, and lead lavish lifestyles without any sense of consumer restraint or economic reality. Yet, the experience of a part-time job that pays a menial salary should awaken even the blithest spendthrift, and expose them to the harsher side of the economic spectrum. Such valuable lesson that can only be gained from working part-time will play a considerable role in the development and maturation of a teenager. Furthermore, even if the amount of money earned by working part-time is not much, it can still serve as the basis for a saving account that will grow with the teenager.
@@ -8,7 +10,7 @@ Another benefit to holding a part-time job is that the experience can help young
 
 In conclusion, the experience of a part-time job can impart knowledge that is more useful to teenagers than the rote knowledge they find in their textbooks. Such an experience can also teach them to become financially independent. Furthermore, having a part-time job helps students to build up a social network, enhance their people skills, and lay the foundation for a future career. That is why I am firmly convinced that one of the best ways for parents to help their teenage children prepare for adulthood is by encouraging them to take part-time jobs.
 
-### Keywords:
+## Keywords:
 
 |                                                    |                      |
 | -------------------------------------------------- | -------------------- |
